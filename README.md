@@ -32,6 +32,4 @@ A simple RESTful CRUD API built with Go, Gorilla Mux, and MySQL. Supports creati
 
 
 
-```bash
-git clone https://github.com/yourusername/go-crud-api.git
-cd go-crud-api
+
